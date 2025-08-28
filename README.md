@@ -5,8 +5,7 @@ A simple responsive **Sidebar Menu** built using only HTML & CSS.
 ---
 
 ## 🚀 Live Demo
-Check it out here: [Click to View](https://MMuusskkaann.github.io/Slide-Bar-Menu/
-)
+Check it out here: [Click to View](https://mmuusskkaann.github.io/Slide-Bar-Menu/)
 
 ---
 
@@ -22,8 +21,3 @@ Check it out here: [Click to View](https://MMuusskkaann.github.io/Slide-Bar-Menu
 - Social media icons included  
 
 ---
-
-## 🛠️ How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/MMuusskkaann/Slide-Bar-Menu.git
