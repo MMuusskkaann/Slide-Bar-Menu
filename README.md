@@ -10,7 +10,7 @@ Check it out here: [Click to View](https://MMuusskkaann.github.io/Slide-Bar-Menu
 ---
 
 ## 📸 Preview
-![Sidebar Menu Screenshot](photo.jpg)
+![Sidebar Menu Screenshot](slidebar.jpg)
 
 ---
 
