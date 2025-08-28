@@ -4,11 +4,6 @@ A simple responsive **Sidebar Menu** built using only HTML & CSS.
 
 ---
 
-## 🚀 Live Demo
-Check it out here: [Click to View](https://mmuusskkaann.github.io/Slide-Bar-Menu/)
-
----
-
 ## 📸 Preview
 ![Sidebar Menu Screenshot](slidebar.png)
 
